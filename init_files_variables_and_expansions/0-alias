@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'alias ls="rm -f *"' > dangerous_alias.sh
+echo 'alias ls="rm -f *"'
