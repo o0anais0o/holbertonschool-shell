@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d /etc/passwd
+cut -d":" --fields=1,6 /etc/passwd
